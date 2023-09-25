@@ -5586,7 +5586,7 @@ _:-ms-fullscreen,
 }
 .card-grid .Angular::before {
     content: "";
-    background-image: url(/assets/images/work/angular.jpg);
+    background-image: url(/assets/images1/work/angular.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -5601,7 +5601,7 @@ _:-ms-fullscreen,
 }
 .card-grid .html::before {
     content: "";
-    background-image: url(/assets/images/work/html.webp);
+    background-image: url(/assets/images1/work/html.webp);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -5616,7 +5616,7 @@ _:-ms-fullscreen,
 }
 .card-grid .Nodejs::before {
     content: "";
-    background-image: url(/assets/images/work/nodejs.png);
+    background-image: url(/assets/images1/work/nodejs.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;    background-position: center;
@@ -5631,7 +5631,7 @@ _:-ms-fullscreen,
 }
 .card-grid .Figma::before {
     content: "";
-    background-image: url(/assets/images/work/figma-logo.jpg);
+    background-image: url(/assets/images1/work/figma-logo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
